@@ -1,3 +1,4 @@
 pandas
 streamlit
 streamlit-option-menu
+pymysql

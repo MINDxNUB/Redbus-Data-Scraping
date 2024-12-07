@@ -26,7 +26,19 @@
     The code for the process can be referred from the file "database.ipynb"
   ### 4.Creating Web App
     Finally, with the help of streamlit an interactive user-friendly interface that allows user to search the extracted details have been
-    created. The app sorts the results based on various states, type of the bus and fare range.
+    created. The app sorts the results based on various states, routes, type of the bus and fare range.
 ## Results
+  **Home page**
+  ![Screenshot (17)](https://github.com/user-attachments/assets/d8006adf-bdf9-43d1-9f13-c72057f7b3b3)
+
+  **Search Page**
   
-  ![home](/.secrets/Screenshot(17))
+  ![Screenshot (18)](https://github.com/user-attachments/assets/dd0194cb-47b0-4c8e-9159-6abc8cc20e46)
+
+  **Results for bus servicing for selected route**
+  
+  ![Screenshot (19)](https://github.com/user-attachments/assets/8a0ebd47-f7b9-4a97-bb34-50ac9fc9a894)
+
+  **Filtered result based on bus type**
+  
+  ![Screenshot (20)](https://github.com/user-attachments/assets/26d5bc90-6f88-47b5-943a-7c0bfc12e1ec)

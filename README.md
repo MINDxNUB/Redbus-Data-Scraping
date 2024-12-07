@@ -28,4 +28,5 @@
     Finally, with the help of streamlit an interactive user-friendly interface that allows user to search the extracted details have been
     created. The app sorts the results based on various states, type of the bus and fare range.
 ## Results
-
+  
+  ![home](https://drive.google.com/file/d/1s2MBDotWIjkepL0niQ4EZ7OhlebtLq0T/view?usp=drive_link)
